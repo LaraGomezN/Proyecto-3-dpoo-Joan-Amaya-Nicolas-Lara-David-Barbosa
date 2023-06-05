@@ -1,0 +1,20 @@
+Margarita;12;restaurante,piscina;11:00:00;19:00:00
+Mojito;10;restaurante,terraza;17:00:00;02:00:00
+Cerveza artesanal;8;restaurante,jardín;12:00:00;23:00:00
+Agua mineral;3;restaurante,habitación;07:00:00;23:00:00
+Vino tinto;20;restaurante,restaurante;13:00:00;23:00:00
+Jugo natural;6;restaurante,piscina;09:00:00;18:00:00
+Coca-Cola;4;restaurante,habitación;08:00:00;23:00:00
+Piña colada;14;restaurante,spa;10:00:00;20:00:00
+Té helado;5;restaurante,terraza;12:00:00;22:00:00
+Whisky on the rocks;18;restaurante,jardín;17:00:00;02:00:00
+Café americano;4;restaurante,restaurante;07:00:00;23:00:00
+Bloody Mary;15;restaurante,habitación;12:00:00;23:00:00
+Gin tonic;12;restaurante,terraza;17:00:00;02:00:00
+Agua de coco;5;restaurante,piscina;09:00:00;18:00:00
+Ron con cola;12;restaurante,jardín;13:00:00;23:00:00
+Martini seco;16;restaurante,spa;18:00:00;02:00:00
+Limonada;6;restaurante,terraza;10:00:00;20:00:00
+Cerveza nacional;6;restaurante,restaurante;12:00:00;23:00:00
+Licuado de frutas;8;restaurante,habitación;07:00:00;23:00:00
+Té chai latte;6;restaurante,restaurante;07:00:00;23:00:00
