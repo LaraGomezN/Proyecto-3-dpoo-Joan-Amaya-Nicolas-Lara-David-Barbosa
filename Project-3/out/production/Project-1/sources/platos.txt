@@ -1,0 +1,23 @@
+Filete Mignon;45;restaurante,habitación;07:00:00;23:00:00
+Sopa de tortilla;20;restaurante,piscina;10:00:00;20:00:00
+Ensalada Caesar;15;restaurante,bar;11:00:00;02:00:00
+Pasta Alfredo;25;restaurante,habitación;12:00:00;22:00:00
+Pollo a la parrilla;30;restaurante,spa;09:00:00;19:00:00
+Sushi mixto;40;restaurante,terraza;18:00:00;23:00:00
+Hamburger con queso;18;restaurante,habitación;12:00:00;23:00:00
+Enchiladas de pollo;22;restaurante,jardín;13:00:00;21:00:00
+Risotto de hongos;28;restaurante,habitación;12:00:00;22:00:00
+Ensalada de frutas;12;restaurante,piscina;09:00:00;18:00:00
+Lasaña de carne;32;restaurante,bar;11:00:00;00:00:00
+Pescado a la parrilla;36;restaurante,spa;09:00:00;20:00:00
+Huevos rancheros;16;restaurante,terraza;08:00:00;12:00:00
+Tacos al pastor;20;restaurante,jardín;13:00:00;22:00:00
+Salmón con salsa de mango;38;restaurante,habitación;18:00:00;23:00:00
+Hamburguesa vegetariana;18;restaurante,piscina;12:00:00;20:00:00
+Curry verde con pollo;24;restaurante,bar;12:00:00;23:00:00
+Wrap de pollo;15;restaurante,spa;09:00:00;18:00:00
+Sopa de mariscos;28;restaurante,terraza;12:00:00;22:00:00
+Sandwich cubano;20;restaurante,habitación;12:00:00;23:00:00
+Fajitas de res;26;restaurante,jardín;13:00:00;22:00:00
+Pasta carbonara;22;restaurante,piscina;11:00:00;20:00:00
+Crepas de chocolate;14;restaurante,bar;08:00:00;00:00:00
